@@ -33,7 +33,7 @@ CRGB leds[NUM_LEDS];
 unsigned short win_music[] = {
   2637, 2637, 0, 2637,
   0, 2093, 2637, 0,
-  3136 //Add missing note plz
+  3136,/*you're welcome*/1568 //Add missing note plz
 };
 
 float p1_pos;
